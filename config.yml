@@ -1,0 +1,4 @@
+models:
+  guijiliudong:
+    deepseek:
+      OPENAI_API_KEY: sk-tfdnbyicwpwykcekltgfwyljnwyevgscsgcvtsylxiyrxiow
